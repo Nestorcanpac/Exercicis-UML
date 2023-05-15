@@ -2,7 +2,10 @@
 
 ```mermaid
     classDiagram
-
+       public class profesor{
+       
+       
+       }
 
 
 ```
